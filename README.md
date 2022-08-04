@@ -3,7 +3,7 @@
 
 - [Azure_Azure_Database_Administrator_Associate](#azure_azure_database_administrator_associate)
 - [General information](#general-information)
-- [Course](#course)
+- [Courses](#courses)
   - [Udeny](#udeny)
   - [Microsoft Learning Path](#microsoft-learning-path)
 - [Book](#book)
@@ -21,7 +21,7 @@ The Azure database administrator implements and manages the operational aspects 
 Based on:
 - https://docs.microsoft.com/en-us/certifications/exams/dp-300
 
-# Course
+# Courses
 
 ## Udeny
 
@@ -31,6 +31,8 @@ DP-300: Administering Relational Databases - Azure DBA
 ## Microsoft Learning Path
 
 - https://docs.microsoft.com/en-us/certifications/exams/dp-300
+
+- https://github.com/MicrosoftLearning/dp-300-database-administrator
 
 # Book
 
